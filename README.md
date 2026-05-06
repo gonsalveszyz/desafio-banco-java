@@ -74,3 +74,18 @@ Tipo de Conta: Corrente
 Saldo da Conta: 1599.99
 
 **********************
+
+***Digite sua opcao***
+
+1 - Consultar Saldo da Conta
+2 - Transferir Saldo da Conta
+3 - Receber um valor
+4 - Sair
+
+Qual o valor que deseja transferir
+2000
+Nao a saldo para transferir
+
+Qual o valor que deseja transferir
+500
+O novo saldo atualizado e 1099.99
