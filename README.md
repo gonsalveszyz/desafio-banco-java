@@ -39,7 +39,7 @@ Agora, o programa solicita que o usuário informe os dados iniciais da conta no 
 
 | Informação | Valor |
 |---|---|
-| Nome do cliente | Roberto |
+| Nome do cliente | Arthur Oliveira |
 | Tipo de conta | Corrente |
 | Saldo inicial | 1599.99 |
 
