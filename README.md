@@ -10,7 +10,10 @@ O programa exibe os dados iniciais de um cliente e apresenta um menu interativo,
 
 O sistema possui as seguintes funcionalidades:
 
-- Exibir dados iniciais do cliente;
+- Solicitar o nome do cliente pelo terminal;
+- Solicitar o tipo de conta pelo terminal;
+- Solicitar o saldo inicial da conta pelo terminal;
+- Exibir os dados informados pelo usuário;
 - Consultar o saldo da conta;
 - Transferir um valor da conta;
 - Verificar se há saldo suficiente para transferência;
@@ -24,6 +27,15 @@ O sistema possui as seguintes funcionalidades:
 ## Dados iniciais da conta
 
 O programa inicia com os seguintes dados cadastrados diretamente no código:
+
+Agora, o programa solicita que o usuário informe os dados iniciais da conta no momento da execução.
+
+| Informação | Como é preenchida |
+|---|---|
+| Nome do cliente | Digitado pelo usuário |
+| Tipo de conta | Digitado pelo usuário |
+| Saldo inicial | Digitado pelo usuário |
+
 
 | Informação | Valor |
 |---|---|
@@ -67,11 +79,21 @@ Este projeto utiliza conceitos fundamentais da linguagem Java, como:
 Ao iniciar o programa, são exibidas as informações da conta:
 
 ```text
+
+digite o nome do cliente
+Arthur Oliveira
+
+digite o tipo de conta:
+Corrente
+
+digite o saldo da conta:
+1599.00
+
 **********************
 
-Nome do Cliente Roberto
+Nome do Cliente Arthur Oliveira
 Tipo de Conta: Corrente
-Saldo da Conta: 1599.99
+Saldo da Conta: 1599.00
 
 **********************
 
